@@ -5,7 +5,7 @@ Study code for cs231n assignment
 - Goals 
 In this assignment you will practice putting together a simple image classification pipeline based on the k-Nearest Neighbor or the SVM/Softmax classifier. 
 
-Q1. KNN ckassifier
+Q1. KNN ckassifier/n
 Q2. Training a Support Vector Machine
 Q3. Implement a Softmax classifier
 Q4. Two-Layer Neural Network
